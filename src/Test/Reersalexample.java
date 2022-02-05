@@ -21,7 +21,7 @@ public class Reersalexample {
 		System.out.println("enter the number to be reverse");
 		int num1 = sc.nextInt();
 		
-		
+		System.out.println();
 		
 		
 		
